@@ -1,0 +1,35 @@
+﻿body {
+}
+
+.LeftPanel {
+    left: 0;
+    height: 100%;
+    width: 30%;
+    position: fixed;
+    top: 0;
+    padding-top: 20px;
+}
+
+.Rightpanel {
+    right: 0;
+    height: 100%;
+    width: 70%;
+    position: fixed;
+    top: 0;
+    padding-top: 20px;
+}
+
+.defaultTitle {
+    font-family: times, serif;
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: solid
+}
+
+.nameTitle {
+    font-family: Arial, sans-serif;
+    color: black;
+    text-align: center;
+    font-style: italic
+}
